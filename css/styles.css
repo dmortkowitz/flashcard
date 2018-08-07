@@ -1,6 +1,30 @@
 .well {
   text-align: center;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
 }
 body{
   text-align:center;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.initially-hidden{
+  display:none;
+  }
+.hiddentext2, .hiddentext3, .hiddentext4, .hiddentext5{
+  display: none;
+}
+.block1{
+  background-color: red;
+  text-align: center;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
 }
