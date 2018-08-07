@@ -1,13 +1,17 @@
 .well {
   text-align: center;
-  width: 33%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
+html{
+  height: 100%;
+}
+
 body{
-  background-color: #DBF0F7;
+  background: linear-gradient(#D7BDE2, #EBDEF0, #F5EEF8);
   text-align:center;
-  font-family: fantasy;
+  font-family: bradley hand;
 }
 
 .clickable {
@@ -21,14 +25,7 @@ body{
   display:none;
   font-size: 20px;
   }
-.hiddentext2, .hiddentext3, .hiddentext4, .hiddentext5{
+.hiddentext2{
   display: none;
   font-size: 18px;
-}
-.block1{
-  background-color: red;
-  text-align: center;
-  width: 33%;
-  margin-left: auto;
-  margin-right: auto;
 }
