@@ -5,7 +5,9 @@
   margin-right: auto;
 }
 body{
+  background-color: #DBF0F7;
   text-align:center;
+  font-family: fantasy;
 }
 
 .clickable {
@@ -17,9 +19,11 @@ body{
 }
 .initially-hidden{
   display:none;
+  font-size: 20px;
   }
 .hiddentext2, .hiddentext3, .hiddentext4, .hiddentext5{
   display: none;
+  font-size: 18px;
 }
 .block1{
   background-color: red;
